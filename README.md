@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Amatsagu
-- 👀 I’m currently interested in creating discord bots and simple web apps.
-- 🌱 I’m currently learning TypeScript and Jikan.
-- 📫 You can reach me via discord: `Amatsagu#0001`
+Don't expect too much, I am not a programming student. I just do what interests me.
 
-<!---
-Amatsagu/Amatsagu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Credit: https://github.com/anuraghazra/github-readme-stats -->
+[![Amatsagu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amatsagu&hide=prs,issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Current Projects
+> **Updated on August 27, 2021**
+
+- [Derun Library](https://github.com/Amatsagu/Derun)
+- [Kikuri Discord Bot](https://kikuri.netlify.app/)
