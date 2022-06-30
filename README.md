@@ -3,10 +3,6 @@
   <img src="https://raw.githubusercontent.com/danielcshn/danielcshn/master/icons/wave.gif" width="30" height="30">
 </h3>
 
-<div align="center">
-![Amatsagu's GitHub profile open stats](https://komarev.com/ghpvc/?username=amatsagu&color=007bff&label=Profile+Views&style=for-the-badge)
-</div>
-
 ## 📘 My top open source projects
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
@@ -30,8 +26,10 @@
 </div>
 
 ## 👾 Technology Stack
-<div align="center">
-  ![Languages](https://skillicons.dev/icons?i=js,html,css,wasm,ts,md,regex&perline=10)
-  <br />
-  ![Tools & Applications](https://skillicons.dev/icons?i=git,nodejs,deno,heroku,github,discord,cloudflare,nginx,netlify,mongodb,mysql,vscode&perline=10)
-</div>
+[![Languages](https://skillicons.dev/icons?i=js,html,css,wasm,ts,md,regex)](https://skillicons.dev)
+<br/>
+[![Languages](https://skillicons.dev/icons?i=git,nodejs,deno,heroku,github,discord,cloudflare,nginx,netlify,mongodb,mysql,vscode)](https://skillicons.dev)
+
+## 📈 Github stats
+<a href="#">![Github statistics](https://github-readme-stats.vercel.app/api?username=Amatsagu&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amatsagu&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
