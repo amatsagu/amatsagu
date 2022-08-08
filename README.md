@@ -26,7 +26,7 @@
 </div>
 
 ## 👾 Technology Stack
-[![Languages](https://skillicons.dev/icons?i=js,html,css,wasm,ts,md,regex)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,html,css,wasm,ts,go,md,regex)](https://skillicons.dev)
 <br/>
 [![Languages](https://skillicons.dev/icons?i=git,nodejs,deno,heroku,github,discord,cloudflare,nginx,netlify,mongodb,mysql,vscode)](https://skillicons.dev)
 
