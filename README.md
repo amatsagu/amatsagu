@@ -21,6 +21,7 @@
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <div align="center">
   <a href="https://github.com/discordeno/discordeno"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=discordeno&repo=discordeno&theme=react&bg_color=30363d&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="optimizer"></a>
+  <a href="https://github.com/discord/discord-api-docs"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=discord&repo=discord-api-docs&theme=react&bg_color=30363d&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="optimizer"></a>
   
   <a href="https://github.com/Amatsagu?tab=repositories&q=&type=fork&language=&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </div>
