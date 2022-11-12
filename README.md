@@ -27,9 +27,9 @@
 </div>
 
 ## 👾 Technology Stack
-[![Languages](https://skillicons.dev/icons?i=js,html,css,wasm,ts,go,md,regex)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,go,regex,md)](https://skillicons.dev)
 <br/>
-[![Languages](https://skillicons.dev/icons?i=git,nodejs,deno,heroku,github,discord,cloudflare,nginx,netlify,mongodb,mysql,vscode)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=git,nodejs,deno,github,discord,cloudflare,nginx,netlify,mongodb,mysql,vscode)](https://skillicons.dev)
 
 ## 📈 Github stats
 <a href="#">![Github statistics](https://github-readme-stats.vercel.app/api?username=Amatsagu&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
