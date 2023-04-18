@@ -3,6 +3,13 @@
   <img src="https://raw.githubusercontent.com/danielcshn/danielcshn/master/icons/wave.gif" width="30" height="30">
 </h3>
 
+## 👾 Technology Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,go,regex,md" alt="Languages & misc files">
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,nodejs,deno,github,discord,cloudflare,nginx,mysql,vscode" alt="Tools">
+</div>
+
 ## 📘 My top open source projects
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
@@ -26,11 +33,8 @@
   <a href="https://github.com/Amatsagu?tab=repositories&q=&type=fork&language=&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </div>
 
-## 👾 Technology Stack
-[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,go,regex,md)](https://skillicons.dev)
-<br/>
-[![Languages](https://skillicons.dev/icons?i=git,nodejs,deno,github,discord,cloudflare,nginx,netlify,mongodb,mysql,vscode)](https://skillicons.dev)
-
 ## 📈 Github stats
-<a href="#">![Github statistics](https://github-readme-stats.vercel.app/api?username=Amatsagu&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-<a href="#">![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amatsagu&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amatsagu&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="Github statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amatsagu&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top used languages">
+</div>
