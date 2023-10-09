@@ -17,7 +17,6 @@
 <div align="center">
   <a href="https://github.com/Amatsagu/Tempest"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Amatsagu&repo=Tempest&theme=react&bg_color=30363d&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="Tempest"></a>
   <a href="https://github.com/Amatsagu/Vi-be"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Amatsagu&repo=Vi-be&hide_border=true&bg_color=30363d&title_color=007bff&icon_color=F8D866&theme=react&show_icons=false" alt="Vi-be"></a>
-  <a href="https://github.com/Amatsagu/Promethium"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Amatsagu&repo=Promethium&hide_border=true&bg_color=30363d&title_color=007bff&icon_color=F8D866&theme=react&show_icons=false" alt="Promethium"></a>
   
   <a href="https://github.com/Amatsagu?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </div>
