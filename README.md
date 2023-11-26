@@ -36,4 +36,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amatsagu&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="Github statistics">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amatsagu&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top used languages">
+  <img src="https://github-profile-trophy.vercel.app/?username=Amatsagu&theme=nord&column=4&margin-w=10&margin-h=10" alt="Github community achievements" >
 </div>
