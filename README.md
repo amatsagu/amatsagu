@@ -32,9 +32,13 @@
   <a href="https://github.com/Amatsagu?tab=repositories&q=&type=fork&language=&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </div>
 
+## ✨ Community achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Amatsagu&theme=nord&column=4&margin-w=10&margin-h=10" alt="Github community achievements" >
+</div>
+
 ## 📈 Github stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amatsagu&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="Github statistics">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amatsagu&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top used languages">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amatsagu&theme=nord&column=4&margin-w=10&margin-h=10" alt="Github community achievements" >
 </div>
