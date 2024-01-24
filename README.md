@@ -44,4 +44,5 @@
 ## ✨ Community achievements
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amatsagu&theme=darkhub&column=6&row=1&margin-w=5&no-bg=true&border_color=42464b" alt="Github community achievements" >
+  <img src="https://lanyard.cnrad.dev/api/390394829789593601?showDisplayName=true&bg=00000088" alt="Discord presence">
 </div>
