@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,go,regex,md" alt="Languages & misc files">
   <br>
-  <img src="https://skillicons.dev/icons?i=git,nodejs,deno,github,discord,cloudflare,nginx,mysql,vscode" alt="Tools">
+  <img src="https://skillicons.dev/icons?i=git,nodejs,deno,github,discord,cloudflare,nginx,mysql,docker,vscode" alt="Tools">
 </div>
 
 ## 📘 My top open source projects
