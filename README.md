@@ -35,10 +35,10 @@
 
 ## 📈 Github stats
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amatsagu/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Github statistics">
-  <img src="https://raw.githubusercontent.com/amatsagu/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="Github statistics">
-  <img src="https://raw.githubusercontent.com/amatsagu/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Github statistics">
-  <img src="https://raw.githubusercontent.com/amatsagu/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Github statistics">
+  <img src="https://raw.githubusercontent.com/amatsagu/github-stats/refs/heads/generated/overview.svg#gh-dark-mode-only" alt="Github statistics">
+  <img src="https://raw.githubusercontent.com/amatsagu/github-stats/refs/heads/generated/overview.svg#gh-light-mode-only" alt="Github statistics">
+  <img src="https://raw.githubusercontent.com/amatsagu/github-stats/refs/heads/generated/languages.svg#gh-dark-mode-only" alt="Github statistics">
+  <img src="https://raw.githubusercontent.com/amatsagu/github-stats/refs/heads/generated/languages.svg#gh-light-mode-only" alt="Github statistics">
 </div>
 
 ## ✨ Community achievements
